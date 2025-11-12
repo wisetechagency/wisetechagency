@@ -72,17 +72,6 @@ Complex API integration and real-time sync across services.
 
 ---
 
-### 📊 GitHub Stats & Top Languages
-
-> Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=professional&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=professional&hide_border=true)
-
----
-
-### 🔗 Quick Links
 - Portfolio: `https://yourportfolio.com`  
 - LinkedIn: `https://linkedin.com/in/yourprofile`  
 - Email: `yourmail@example.com`  
@@ -98,23 +87,5 @@ I’m available for freelance and strategic partnerships. If you think we can bu
 ### 🧾 Resume / One-line Pitch
 _I don't just write code; I engineer digital experiences that build brands, engage users, and drive measurable growth._
 
----
 
-### 📌 How to use this README
-1. Create a new repository named exactly like your GitHub username (this becomes your profile repository).  
-2. Copy the contents of this file into `README.md` in that repo.  
-3. Replace placeholders (YOUR_GITHUB_USERNAME, your links, [Your Name], project details).  
-4. Commit & push — your profile will render automatically.
-
----
-
-### ⚙️ Optional Enhancements
-- Animated header GIF or SVG  
-- Visitor counter: `https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_REPO`  
-- Project showcase cards using shields and image banners  
-- GitHub Actions to auto-update a blog or stats
-
----
-
-*Made with ❤️ — copy, adapt, and make it yours.*
 
