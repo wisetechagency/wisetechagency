@@ -5,7 +5,7 @@
 
 ---
 
-### 💡 About Me
+### 💡 About Us
 - We partner with businesses to build their digital future, from brand strategy and UX design to scalable, user-centered web and mobile applications. 
 - Passionate about clean architecture, performance, and user experience. 
 - Currently exploring advanced DevOps & AI integration. 
@@ -34,12 +34,12 @@
 ---
 
 ### 🧠 Development Philosophy
-> “I don’t just write code; I engineer digital experiences that build brands, engage users, and drive measurable growth.”
+> “We don’t just write code; We engineer digital experiences that build brands, engage users, and drive measurable growth.”
 
-- End-to-End Execution — from concept to launch  
-- Strategic Alignment — code that supports business goals  
-- Scalable Architecture — clean, modular, and future-ready  
-- Performance Focused — optimized for speed and UX
+- End-to-End Execution: From concept to launch  
+- Strategic Alignment: Code that supports business goals  
+- Scalable Architecture: Clean, modular, and future-ready  
+- Performance Focused: Optimized for speed and UX
 
 ---
 
@@ -54,4 +54,4 @@
 
 ---
 
-<h3 align="center">✨ Thank you for visiting my profile — Let’s connect and create something amazing! ✨</h3>
+<h3 align="center">✨ Thank you for visiting our profile — Let’s connect and create something amazing! ✨</h3>
