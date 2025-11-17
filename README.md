@@ -6,20 +6,20 @@
 ---
 
 ### 💡 About Me
-🚀 I partner with businesses to build their digital future — from brand strategy and UX design to scalable, user-centered web and mobile applications.  
-💻 Passionate about clean architecture, performance, and user experience.  
-🌱 Currently exploring advanced DevOps & AI integration.  
-📍 Based on collaboration, innovation, and measurable impact.
+- We partner with businesses to build their digital future, from brand strategy and UX design to scalable, user-centered web and mobile applications. 
+- Passionate about clean architecture, performance, and user experience. 
+- Currently exploring advanced DevOps & AI integration. 
+- Based on collaboration, innovation, and measurable impact.
 
 ---
 
 ### 🛠️ My Service Stack
 
-| Strategy & Consulting | Design & Branding | Web & Mobile Development | Marketing & Growth |
+| Web & Mobile Development | Design & Branding | Strategy & Consulting | Marketing & Growth |
 |-----------------------|------------------|--------------------------|--------------------|
-| Go-to-Market Strategy | UX/UI Design | React • Next.js • Angular | Marketing Strategy |
-| Brand Strategy | Mobile App Design (Figma) | Flutter • React Native | Content Strategy |
-| Creative Strategy | Adobe XD | Django • Node.js | Campaign Management |
+| React • Next.js • Angular | UX/UI Design | Go-to-Market Strategy | Marketing Strategy |
+| Flutter • React Native  | Mobile App Design (Figma) | Brand Strategy | Content Strategy |
+| Django • Node.js | Adobe XD | Creative Strategy  | Campaign Management |
 
 ---
 
