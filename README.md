@@ -36,19 +36,19 @@
 ### 🧠 Development Philosophy
 > “I don’t just write code; I engineer digital experiences that build brands, engage users, and drive measurable growth.”
 
-- 💪 End-to-End Execution — from concept to launch  
-- 🎯 Strategic Alignment — code that supports business goals  
-- 🧩 Scalable Architecture — clean, modular, and future-ready  
-- ⚡ Performance Focused — optimized for speed and UX
+- End-to-End Execution — from concept to launch  
+- Strategic Alignment — code that supports business goals  
+- Scalable Architecture — clean, modular, and future-ready  
+- Performance Focused — optimized for speed and UX
 
 ---
 
 ### 🌐 Connect with Me
 
 💼 [Portfolio](https://yourportfolio.com)  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+🔗 [LinkedIn](linkedin.com/company/wisetechagency)  
 🐦 [Twitter](https://twitter.com/yourhandle)  
-📧 **Email:** yourmail@example.com  
+📧 [Email](agency.wisetech@gmail.com)  
 
 ---
 
