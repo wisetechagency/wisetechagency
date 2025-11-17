@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ My Service Stack
+### 🛠️ Our Service Stack
 
 | Web & Mobile Development | Design & Branding | Strategy & Consulting | Marketing & Growth |
 |-----------------------|------------------|--------------------------|--------------------|
@@ -43,7 +43,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect with us
 - Email: agency.wisetech@gmail.com
 - [LinkedIn](https://www.linkedin.com/company/wisetechagency)
 
