@@ -45,7 +45,7 @@
 
 ### 🌐 Connect with Me
 - Email: agency.wisetech@gmail.com
-- [LinkedIn][linkedin.com/company/wisetechagency](https://www.linkedin.com/company/wisetechagency]
+- [LinkedIn](https://www.linkedin.com/company/wisetechagency)
 
 ---
 
