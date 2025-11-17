@@ -44,11 +44,8 @@
 ---
 
 ### 🌐 Connect with Me
-
-💼 [Portfolio](https://yourportfolio.com)  
-🔗 [LinkedIn](linkedin.com/company/wisetechagency)  
-🐦 [Twitter](https://twitter.com/yourhandle)  
-📧 [Email](agency.wisetech@gmail.com)  
+- Email: agency.wisetech@gmail.com
+- [LinkedIn](linkedin.com/company/wisetechagency)  
 
 ---
 
